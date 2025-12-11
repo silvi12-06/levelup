@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "imagen": "/assets/imagenes/cabeza.png",
+    "fraseMala1": "Soy muy flojo",
+    "fraseMala2": "No lograré nada",
+    "fraseMala3": "Esto no sirve para nada",
+    "fraseBuena1": "Esta bien ir despacio,",
+    "fraseBuena2": "escucha lo que neceisto oir",
+    "sonido": ""
+}
