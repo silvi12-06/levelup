@@ -1,6 +1,7 @@
 {
     "id": 1,
     "imagen": "/assets/imagenes/cabeza.png",
+    "instrucciones": "Lee las frases y cámbialas por otras más positivas, lo podrás hacer haciendo clic en ellas.",
     "fraseMala1": "Soy muy flojo",
     "fraseMala2": "No lograré nada",
     "fraseMala3": "Esto no sirve para nada",

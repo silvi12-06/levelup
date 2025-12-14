@@ -1,6 +1,7 @@
 {
     "id": 4,
     "imagen": "/assets/imagenes/musculo.png",
+    "instrucciones": "Cuando sientas los extremos en tus músculos. Haz clic en la imagen, y estarás liberando esas tensiones.",
     "fraseMala": [],
     "fraseBuena": [],
     "sonido": ""

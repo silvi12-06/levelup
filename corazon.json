@@ -1,6 +1,7 @@
 {
     "id": 2,
     "imagen": "/assets/imagenes/corazon.png",
+    "instrucciones": "Siente el ritmo de tu corazón y recuerda que cada latido es una oportunidad para entenderte, cuando hagas clic en el significara que te relajas.",
     "fraseMala": "",
     "fraseBuena": "",
     "sonido": "/assets/imagenes/hearbeat.mp3"

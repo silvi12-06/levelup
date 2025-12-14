@@ -1,6 +1,7 @@
 {
     "id": 3,
     "imagen": "/assets/imagenes/nudo.png",
+    "instrucciones": "Siente las sensaciones en tu estómago. Cuando hagas clic en la imagen, estarás liberando esas tensiones.",
     "fraseMala": [],
     "fraseBuena": [],
     "sonido": ""
